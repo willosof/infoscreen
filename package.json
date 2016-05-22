@@ -1,0 +1,19 @@
+{
+  "name": "infoscreen",
+  "version": "0.0.1",
+  "description": "Info screen system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "info",
+    "screen",
+    "infoscreen",
+    "information",
+    "public",
+    "display"
+  ],
+  "author": "William Viker <william.viker@gmail.com>",
+  "license": "ISC"
+}
